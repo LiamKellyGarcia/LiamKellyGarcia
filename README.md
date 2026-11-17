@@ -5,10 +5,9 @@
   <a href="https://www.linkedin.com/in/liam-kelly-garcia-b8590640b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://app.hackthebox.com/">
+  <a href="https://app.hackthebox.com/users/4252591">
     <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox"/>
   </a>
-  <!-- TODO: replace the HackTheBox link above with your own profile link (HTB → Profile → copy URL) -->
 </p>
 
 ---
@@ -63,6 +62,15 @@ and replace PASTE_VERIFICATION_LINK_HERE with the credential/verification link f
 | Certification name | Issuer | Month Year | <a href="PASTE_VERIFICATION_LINK_HERE"><img src="https://img.shields.io/badge/Verify-%E2%9C%93-2EA44F?style=for-the-badge" alt="Verify"/></a> |
 -->
 
+---
+
+## Featured Repositories
+
+| Repo | What's inside |
+|------|---------------|
+| [hackthebox-writeups](https://github.com/LiamKellyGarcia/hackthebox-writeups) | Notes and write-ups from retired HTB machines and Sherlocks |
+| [cybersecurity-notes](https://github.com/LiamKellyGarcia/cybersecurity-notes) | Study notes on networking, operating systems and SOC work |
+| [java-projects](https://github.com/LiamKellyGarcia/java-projects) | Programming projects from university and personal learning |
 ---
 
 ## Featured Repositories
